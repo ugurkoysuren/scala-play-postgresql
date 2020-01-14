@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/qimia02/Documents/Projects/Scala-101/conf/messages,/home/qimia02/Documents/Projects/Scala-101/target/scala-2.13/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/qimia02/Documents/Projects/Scala-101/conf/application.conf,/home/qimia02/Documents/Projects/Scala-101/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/qimia02/Documents/Projects/Scala-101/conf/logback.xml,/home/qimia02/Documents/Projects/Scala-101/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/qimia02/Documents/Projects/Scala-101/conf/routes,/home/qimia02/Documents/Projects/Scala-101/target/scala-2.13/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/qimia02/Documents/Projects/Scala-101/conf/evolutions/default/1.sql,/home/qimia02/Documents/Projects/Scala-101/target/scala-2.13/classes/evolutions/default/1.sql)[0m
